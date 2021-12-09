@@ -6,7 +6,7 @@ author: curtis
 description: "perfection is iteration"
 ---
 
-## We are developers. We iterate.
+## We are developers... We iterate
 
 I have a chronic roadblock: Perfection.
 

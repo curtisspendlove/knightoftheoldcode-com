@@ -1,0 +1,41 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+
+<section>
+    <h2>About Curtis</h2>
+    <p>Spendlove. Yup. <span style="font-family: 'Source Sans Pro';">/spend/ - /ləv/</span> It sounds just like it's spelled. One can imagine the jokes. And I surrounded myself with friends who thought the jokes were much more humorous when we were teenagers than when we were adolescents.</p>
+    <p>I'm a husband, father, <a href="/books">author</a>, and <a target="_blank" href="https://github.com/curtisspendlove">coder</a>. During the daytime I write mind-numbingly large enterprise applications to put steak on the table. When the sun sets I don my tights and cape and work on smaller, personal projects...the culmination of which have recently added a salt and pepper shaker to the table.</p>
+    <p><em>I don't <span style="text-decoration: line-through">really</span> <strong>usually</strong> code in tights or a cape</em>.</p>
+    <p>I first knew I was destined to write code when I shipped my first Macintosh application in the 90's. I was irritated by dying continually in <em>Descent</em> (a popular computer game at the time). So, I wrote <em>Descent Saved Game Editor</em>. DSGE followed the UNIX tradition: do one task and do it well...allow the user to hack their saved games with vastly superior armor, weaponry, and ungodly quantities of ammunition.</p>
+</section>
+
+<section>
+    <h3><strong>Curtis Spendlove</strong></h3>
+    <div><strong><em>Software Project Delivery Manager</em></strong></div>
+    <div><span>I've been developing for the web since 1996, the past 20 years (of course back then it was using Perl, through CGI).</span></div>
+    <div>&nbsp;</div>
+    <div><span>If you're interested in learning more about my professional career, I've added a more traditional <a href="/resume">Resume</a>.</span></div>
+    <h3>Primary Skills</h3>
+    <div>
+      <em>Tools</em>: HTML5, CSS3, JavaScript, Angular, Node, Express, Sails, PhoneGap (Cordova), jQuery;
+      Ruby / Rails / Jekyll; Java / J2EE, Spring; C# / Visual Basic / Visual FoxPro / .NET; C/C++; PHP; Python; LESS, SASS; Git, Subversion, CVS
+      Jest, mocha, jasmine, minitest, RSpec, Cucumber
+      Apache, nginx, traefik
+    </div>
+    <div>
+      <em>Patterns</em>: OOP, MVC, REST, AJAX
+    </div>
+    <div>
+      <em>Platforms</em>: Amazon Web Services (AWS) / EC2 / S3, Azure, Heroku, Digital Ocean, Linode, Rackspace; Firebase, Twilio
+    </div>
+    <div>
+      <em>Databases</em>: PostgreSQL, MySQL, MS SQL Server, Oracle DB, SQLite, alasql, MongoDB, CouchDB, Redis
+    </div>
+    <div>
+      <em>Systems</em>: macOS / iOS, Linux (Ubuntu, CentOS, Debian, Arch) / Android, Windows
+    </div>
+</section>
