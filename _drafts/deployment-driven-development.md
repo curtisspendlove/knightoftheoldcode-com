@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Delivery-Driven Development"
-date:   2021-10-15
+date:   2023-01-01
 author: curtis
 description: "Delivery-Driven Development"
 ---

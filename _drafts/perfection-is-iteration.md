@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Perfection is Iteration"
-date:   2021-09-01
+date:   2023-01-01
 author: curtis
 description: "perfection is iteration"
 ---
